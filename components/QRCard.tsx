@@ -6,7 +6,7 @@ const QRCard = () => {
       <div className="bg-white rounded-2xl shadow-lg p-4 w-60 sm:w-77">
         <div className="flex justify-center">
           <Image
-            src="/image-qr-code.png"
+            src="/public/image-qr-code.png"
             alt="QR Code"
             width={200}
             height={200}
