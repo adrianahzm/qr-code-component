@@ -178,7 +178,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("5bcb33245f083fad")
+/******/ 		__webpack_require__.h = () => ("bd9d0fa97a3d7071")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -685,7 +685,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/qr-code-component/_next/";
+/******/ 		__webpack_require__.p = "/_next/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/react refresh */
